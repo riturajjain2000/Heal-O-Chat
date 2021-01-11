@@ -156,29 +156,8 @@ To sync your fork, from the directory of your local repository in a terminal win
 <img src="https://github.com/plazzy99/Heal-O-Chat/blob/master/app/src/main/res/drawable/setting.png" alt="drawing" width="250"/>
 <img src="https://github.com/plazzy99/Heal-O-Chat/blob/master/app/src/main/res/drawable/post_bottom_sheet.png" alt="drawing" width="250"/>
 
-## Download app from the link
-[Download both the files and then click .apk file](https://drive.google.com/drive/folders/1b5-8xw9_6Mp4vyKElj-K4mPzqCfPeGgL?usp=sharing)
-
-## Project Maintainer
-[![Issues](https://img.shields.io/github/issues/plazzy99/Heal-O-Chat)](https://github.com/plazzy99) [![Maintenance](https://img.shields.io/maintenance/yes/2020?color=green&logo=github)](https://github.com/plazzy99)
-
-| <a href="https://github.com/plazzy99"><img src="https://avatars2.githubusercontent.com/u/48295138?s=400&u=8e588b8e5d6e8eb2f40886398c26e37b83b33e50&v=4" width=150px height=150px /></a>                                                                                         |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| **[Vatsal Kesarwani](https://www.linkedin.com/in/vatsal-kesarwani/)**                                                                                                                                        |
-| <a href="https://twitter.com/KesarwaniVatsal"><img src="https://openvisualfx.com/wp-content/uploads/2019/10/pnglot.com-twitter-bird-logo-png-139932.png" width="32px" height="32px"></a>  <a href="https://www.linkedin.com/in/vatsal-kesarwani/"><img src="https://mpng.subpng.com/20180324/vhe/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe5f5397.2333748215219374063905.jpg" width="32px" height="32px"></a> |
-
-> **_Need help?_** 
-> **_Feel free to contact me @ [vatsalkesarwani12@gmail.com](mailto:vatsalkesarwani12@gmail@gmail.com?Subject=Heal-O-Chat (NJACK Contributor))_**
-
-## You just made your Firt pull request to Heal-O-Chat
-## Do Star ⭐ this Repo.
-### Check the Leaderboard at:
-https://njackwinterofcode.github.io/leaderboard.html
 
 ![Java](https://img.shields.io/badge/java-%230095D5.svg?&style=for-the-badge&logo=java&logoColor=white)
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
 
-##### Made with ❤️ By Vatsal Kesarwani
-![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
-![ForTheBadge ANDROID](https://forthebadge.com/images/badges/built-for-android.svg)
